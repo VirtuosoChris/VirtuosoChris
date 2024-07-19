@@ -74,6 +74,10 @@ You can play the game [here](https://makinggamesbyyear.itch.io/star-trek-1971).
 2017 app released for free on the GearVR App Store.  Built on Virtuoso Engine.  Preview gif below:
 ![fwgif](https://github.com/user-attachments/assets/8d931ee5-a879-4dd9-9510-eb06d53e7db1)
 
+## Crayon Rendering Algorithm
+2013, a heuristic approach made for low performance / mobile rendering at the time.  Source code and (unpublished) algorithm paper in repository [here](https://github.com/VirtuosoChris/CrayonRenderer).
+
+![screenshot](https://github.com/user-attachments/assets/97751aa6-135b-49a4-9fa4-5c3c567d05ba)
 
 ## 3rd Party Libraries
 A lot of the work on the engine is curating which third party libraries to use vs which things to write myself.  The engine puts together and builds on top of lots of third party open source libraries, including but not limited to:
