@@ -104,4 +104,26 @@ A lot of the work on the engine is curating which third party libraries to use v
 
 [MiniZ](https://github.com/richgel999/miniz/) - for compression and bundling of map data
 
+## Miscellaneous Screenshots Gallery
+Various screenshots of various games / rendering effects / projects I've worked on going back to when I first started to code.
+
+![Post Processing FX DoG   Icosphere](https://github.com/user-attachments/assets/b3c71745-216d-455d-ae53-4c906db669dc)
+![Mandelbrot OpenCL 2012](https://github.com/user-attachments/assets/ee74a7be-2475-4694-a5ba-23ee8cf39f33)
+![HDR Mobile VR 2016](https://github.com/user-attachments/assets/eb760afc-2706-41dc-8555-2f7b8872b3f5)
+![GLES Mobile Water Shader 2016](https://github.com/user-attachments/assets/4b38adad-a7de-492b-943d-b478295f9659)
+![Bloom HDR Emissive 2012](https://github.com/user-attachments/assets/a61549a3-50e8-4731-a993-172cfa38cbd7)
+![Spherical Harmonic Lighting Probe Convolutions](https://github.com/user-attachments/assets/5a50ba4c-e26d-4fc6-b661-91d796aae4ed)
+![ShadowMaps Bloom LOD HDR](https://github.com/user-attachments/assets/6f88d5d3-3fcb-4c18-8575-c63203f1dd1e)
+![Shadowmaps Bloom HDR](https://github.com/user-attachments/assets/e1755a54-dc48-44b5-b906-08e45a69b41a)
+![38104_408871258299_5415115_n](https://github.com/user-attachments/assets/6bea0192-846c-4aac-8c00-623dce4b6ca0)
+![1235364_10151693798478300_667182919_n](https://github.com/user-attachments/assets/94cffcd7-ad5c-4720-af3a-a973d60cbe6c)
+![562340_10151693775423300_1418642382_n](https://github.com/user-attachments/assets/24ff2939-7294-4982-9a8b-a9234e7e66ef)
+![462912_10150724418683300_1027386139_o](https://github.com/user-attachments/assets/e548e416-3e73-4223-bdde-76b629cc21e1)
+![191696_10150121343723300_1099850_o](https://github.com/user-attachments/assets/b59efd1f-c5bc-4fc4-bc3c-b19be09d090d)
+![191644_10150121343578300_4021780_o](https://github.com/user-attachments/assets/865b6b71-8cd6-4e16-b8c4-e024bc08c58b)
+![34374_402948048299_5819395_n](https://github.com/user-attachments/assets/8ef66e0a-e341-4555-a054-1655d43fc3f3)
+![27035_383537978299_5452579_n](https://github.com/user-attachments/assets/139d1f14-c9bd-4628-b844-bc4a193badaf)
+![64147_10151693770768300_1219412655_n](https://github.com/user-attachments/assets/822b611b-e18f-4ce8-a503-1f9a955ae34e)
+![1235908_10151693724063300_1248181310_n](https://github.com/user-attachments/assets/66b1c42e-696b-4d7d-9269-fbf935ee12d4)
+![18157861_10154874392848300_6480177987938036393_n](https://github.com/user-attachments/assets/8802d612-7584-4d98-ae6b-f47f410a509c)
 
