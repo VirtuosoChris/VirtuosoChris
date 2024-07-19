@@ -56,7 +56,7 @@ Several components of the engine can be seen publicly on my GitHub:
 
 [GLSugar](https://github.com/VirtuosoChris/GLSugar) - Graphics framework for modern / AZDO style OpenGL development with nicer syntax.  This has code for basic texture and shader handling, as well as struct annotation to easily make VAO's and [UBOs](https://github.com/VirtuosoChris/GL_UBO/) with correct memory alignments.  Built on GLHPP (discussed below), a library written by a colleague to which I am a contributor.
 
-[uJNI](https://github.com/VirtuosoChris/uJNI) - Not used in KBH, but was developed for the 2016/2017 iteration of the engine to ship a Fireworks Show VR app on the GearVR platform.
+[uJNI](https://github.com/VirtuosoChris/uJNI) - Helper functions and classes to wrangle JNI / NDK things.  Not used in KBH, but was developed for the 2016/2017 iteration of the engine to ship a Fireworks Show VR app on the GearVR platform (Android).
 
 #### 3rd Party Components
 A lot of the work on the engine is curating which third party libraries to use vs which things to write myself.  The engine puts together and builds on lots of third party open source technologies, including but not limited to:
