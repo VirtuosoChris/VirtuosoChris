@@ -43,18 +43,18 @@ The game and engine code will eventually be publicly released under an MIT Licen
 #### Description and Philosophy
 Virtuoso Engine is my personal game and app development framework that I've been working on for about a decade or so in various iterations, and have shipped multiple apps on.  The latest version is being used in the development of "Killing Baby Hitler."
 
-The philosophy of the engine is to be a lightweight framework style engine, sort of like RayLib, but more focusing on C++20, 3D, and physics rather than C99/2D.  I wanted to make this because it's the language / paradigm under which I'm most productive as a very experienced C++ programmer with lots of graphics programming and graphics driver experience.
+The philosophy of the engine is to be a lightweight framework style engine, sort of like [RayLib](https://www.raylib.com/), but more focusing on C++20, 3D, and physics rather than C99/2D.  I wanted to make this because it's the language / paradigm under which I'm most productive as a very experienced C++ programmer with lots of graphics programming and graphics driver experience.
 
 I also am a really strong booster of the ["STB"](https://github.com/nothings/stb) style of library - of making components or functionality that can be forked off without dependencies into a single header, permissive license "library."
 
 #### Public Components
 Several components of the engine can be seen publicly on my GitHub:
 
-[GLSugar](https://github.com/VirtuosoChris/GLSugar) - Graphics framework for modern / AZDO style OpenGL development with nicer syntax.  This has code for basic texture and shader handling, as well as struct annotation to easily make VAO's and UBOs with correct memory alignments.  Built on GLHPP (discussed below), a library written by a colleague to which I am a contributor.
-
 [Quake Style Console](https://github.com/VirtuosoChris/VirtuosoConsole) - Debug console and IMGUI widget
 
 [YarnMachine](https://github.com/VirtuosoChris/YarnMachine) - A standalone C++ virtual machine for [YarnSpinner](https://www.yarnspinner.dev/), a narrative scripting language I use in KBH
+
+[GLSugar](https://github.com/VirtuosoChris/GLSugar) - Graphics framework for modern / AZDO style OpenGL development with nicer syntax.  This has code for basic texture and shader handling, as well as struct annotation to easily make VAO's and UBOs with correct memory alignments.  Built on GLHPP (discussed below), a library written by a colleague to which I am a contributor.
 
 [uJNI](https://github.com/VirtuosoChris/uJNI) - Not used in KBH, but was developed for the 2016/2017 iteration of the engine to ship a Fireworks Show VR app on the GearVR platform.
 
