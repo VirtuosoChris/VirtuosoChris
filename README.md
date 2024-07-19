@@ -58,8 +58,25 @@ Several components of the engine can be seen publicly on my GitHub:
 
 [uJNI](https://github.com/VirtuosoChris/uJNI) - Helper functions and classes to wrangle JNI / NDK things.  Not used in KBH, but was developed for the 2016/2017 iteration of the engine to ship a Fireworks Show VR app on the GearVR platform (Android).
 
-#### 3rd Party Components
-A lot of the work on the engine is curating which third party libraries to use vs which things to write myself.  The engine puts together and builds on lots of third party open source technologies, including but not limited to:
+## Past Projects
+This section under construction.
+
+Notable past projects include:
+
+### Making Games By Year
+A YouTube show talking about the history of a game for every year since the beginning of gaming, then making that game.
+
+[Star Trek Game Source](https://github.com/MakingGamesByYear/TrekGame) from Episode 1
+
+You can play the game [here](https://makinggamesbyyear.itch.io/star-trek-1971).
+
+### Fireworks Show VR
+2017 app released for free on the GearVR App Store.  Built on Virtuoso Engine.  Preview gif below:
+![fwgif](https://github.com/user-attachments/assets/8d931ee5-a879-4dd9-9510-eb06d53e7db1)
+
+
+## 3rd Party Libraries
+A lot of the work on the engine is curating which third party libraries to use vs which things to write myself.  The engine puts together and builds on top of lots of third party open source libraries, including but not limited to:
 
 [glhpp](https://github.com/Steve132/glhpp/) - Object oriented, DSA OpenGL header by a colleague, to which I am a contributor.
 
@@ -82,22 +99,5 @@ A lot of the work on the engine is curating which third party libraries to use v
 [nlohmann's JSON](https://github.com/nlohmann/json) - For data serialization
 
 [MiniZ](https://github.com/richgel999/miniz/) - for compression and bundling of map data
-
-## Past Projects
-This section under construction.
-
-Notable past projects include:
-
-### Making Games By Year
-A YouTube show talking about the history of a game for every year since the beginning of gaming, then making that game.
-
-[Star Trek Game Source](https://github.com/MakingGamesByYear/TrekGame) from Episode 1
-
-You can play the game [here](https://makinggamesbyyear.itch.io/star-trek-1971).
-
-### Fireworks Show VR
-2017 app released for free on the GearVR App Store.  Built on Virtuoso Engine.  Preview gif below:
-![fwgif](https://github.com/user-attachments/assets/8d931ee5-a879-4dd9-9510-eb06d53e7db1)
-
 
 
