@@ -34,7 +34,7 @@ More detailed career history, projects, and my up to date resume can be found on
 
 ### Killing Baby Hitler
 
-I am currently making "Killing Baby Hitler", a retro FPS "boomer shooter" inspired by classics like Wolfenstein.  The game is built on a custom engine ("Virtuoso Engine", discussed below).
+I am currently making Killing Baby Hitler, a retro FPS "boomer shooter" inspired by classics like Wolfenstein.  The game is built on a custom engine ("Virtuoso Engine", discussed below).
 A gameplay trailer can be seen here: 
 
 [<img src="./preview.jpg" width="512"/>](https://www.youtube.com/watch?v=QDfS3aJYwFk)
