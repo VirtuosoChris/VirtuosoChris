@@ -50,9 +50,9 @@ I also am a really strong booster of the ["STB"](https://github.com/nothings/stb
 #### Public Components
 Several components of the engine can be seen publicly on my GitHub:
 
-[Quake Style Console](https://github.com/VirtuosoChris/VirtuosoConsole) - Debug console and IMGUI widget
-
 [YarnMachine](https://github.com/VirtuosoChris/YarnMachine) - A standalone C++ virtual machine for [YarnSpinner](https://www.yarnspinner.dev/), a narrative scripting language I use in KBH
+
+[Quake Style Console](https://github.com/VirtuosoChris/VirtuosoConsole) - Debug console and IMGUI widget
 
 [GLSugar](https://github.com/VirtuosoChris/GLSugar) - Graphics framework for modern / AZDO style OpenGL development with nicer syntax.  This has code for basic texture and shader handling, as well as struct annotation to easily make VAO's and UBOs with correct memory alignments.  Built on GLHPP (discussed below), a library written by a colleague to which I am a contributor.
 
