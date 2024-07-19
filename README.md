@@ -107,7 +107,7 @@ A lot of the work on the engine is curating which third party libraries to use v
 [MiniZ](https://github.com/richgel999/miniz/) - for compression and bundling of map data
 
 ## Miscellaneous Screenshots Gallery
-Various screenshots of various games / rendering effects / projects I've worked on (in no order).  These go back to when I first started to code in 2006 or so, up to 2020 or so.
+Various screenshots of various games / rendering effects / projects I've worked on (in no order).  These go back to when I first started to code in 2006 or so, up to around 2020.
 
 ![Post Processing FX DoG   Icosphere](https://github.com/user-attachments/assets/b3c71745-216d-455d-ae53-4c906db669dc)
 ![Mandelbrot OpenCL 2012](https://github.com/user-attachments/assets/ee74a7be-2475-4694-a5ba-23ee8cf39f33)
