@@ -83,4 +83,18 @@ A lot of the work on the engine is curating which third party libraries to use v
 
 [MiniZ](https://github.com/richgel999/miniz/) - for compression and bundling of map data
 
+## Past Projects
+This section under construction.
+
+Notable past projects include:
+
+### Making Games By Year
+A YouTube show talking about the history of a game for every year since the beginning of gaming, then making that game.
+[Star Trek Game](https://github.com/MakingGamesByYear/TrekGame) from Episode 1
+
+### Fireworks Show VR
+2017 app released for free on the GearVR App Store.  Preview gif below:
+![fwgif](https://github.com/user-attachments/assets/8d931ee5-a879-4dd9-9510-eb06d53e7db1)
+
+
 
