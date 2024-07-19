@@ -26,7 +26,7 @@ I am an independent game programmer, who specializes in 3D graphics, modern C++,
 
 I have worked on a lot of projects using a myriad of languages and engines, targeting everything from PC to mobile to VR.
 
-A lot of my work isn't public or public yet, and my repositories are littered with various forks and experiments, so I figured this page could focus attention on the highlights.
+A lot of my work isn't public (or public yet!), and my repositories are littered with various forks and experiments, so I figured this page could focus attention on the highlights.
 
 ## Current Projects
 
