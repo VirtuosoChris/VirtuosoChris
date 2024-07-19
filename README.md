@@ -43,7 +43,7 @@ The game and engine code will eventually be publicly released under an MIT Licen
 #### Description and Philosophy
 Virtuoso Engine is my personal game and app development framework that I've been working on for about a decade or so in various iterations, and have shipped multiple apps on.  The latest version is being used in the development of "Killing Baby Hitler."
 
-The philosophy of the engine is to be a lightweight framework style engine, sort of like RayLib, but more focusing on C++20, 3D, and physics rather than C99/2D.  I did this because it's the language / paradigm under which I'm most productive as a very experienced C++ programmer with lots of graphics programming and graphics driver experience.
+The philosophy of the engine is to be a lightweight framework style engine, sort of like RayLib, but more focusing on C++20, 3D, and physics rather than C99/2D.  I wanted to make this because it's the language / paradigm under which I'm most productive as a very experienced C++ programmer with lots of graphics programming and graphics driver experience.
 
 I also am a really strong booster of the ["STB"](https://github.com/nothings/stb) style of library - of making components or functionality that can be forked off without dependencies into a single header, permissive license "library."
 
