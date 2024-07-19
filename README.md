@@ -28,6 +28,8 @@ I have worked on a lot of projects using a myriad of languages and engines, targ
 
 A lot of my work isn't public (or public yet!), and my repositories are littered with various forks and experiments, so I figured this page could focus attention on the highlights.
 
+More detailed career history, projects, and my up to date resume can be found on my [LinkedIn](https://www.linkedin.com/in/chris-pugh-70937975/)
+
 ## Current Projects
 
 ### Killing Baby Hitler
