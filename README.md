@@ -2,7 +2,7 @@
 
 <div display="flex">
   <img src="https://img.shields.io/badge/C++-gray?style=for-the-badge&logo=c%2B%2B&logoColor=%2361DAFB" alt="C++"/>
-  <img src="https://img.shields.io/badge/3DGraphics-gray.svg?style=for-the-badge&logo=opengl&logoColor=%#5586A4FB" alt="OpenGL"/>
+  <img src="https://img.shields.io/badge/OpenGL-gray.svg?style=for-the-badge&logo=opengl&logoColor=%#5586A4FB" alt="OpenGL"/>
   <img src="https://img.shields.io/badge/PhysX-gray.svg?style=for-the-badge&logo=nvidia&logoColor=%76B900FB" alt="PhysX"/>
 </div>
 
