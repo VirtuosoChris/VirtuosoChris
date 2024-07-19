@@ -90,10 +90,13 @@ Notable past projects include:
 
 ### Making Games By Year
 A YouTube show talking about the history of a game for every year since the beginning of gaming, then making that game.
-[Star Trek Game](https://github.com/MakingGamesByYear/TrekGame) from Episode 1
+
+[Star Trek Game Source](https://github.com/MakingGamesByYear/TrekGame) from Episode 1
+
+You can play the game [here](https://makinggamesbyyear.itch.io/star-trek-1971).
 
 ### Fireworks Show VR
-2017 app released for free on the GearVR App Store.  Preview gif below:
+2017 app released for free on the GearVR App Store.  Built on Virtuoso Engine.  Preview gif below:
 ![fwgif](https://github.com/user-attachments/assets/8d931ee5-a879-4dd9-9510-eb06d53e7db1)
 
 
