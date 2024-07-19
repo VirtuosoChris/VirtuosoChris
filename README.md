@@ -27,5 +27,5 @@ I am an independent game programmer
 I am currently making "Killing Baby Hitler", a retro FPS "boomer shooter" inspired by classics like Wolfenstein.  The game is built on a custom engine.
 A gameplay trailer can be seen here: 
 
-[![Trailer]()]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=QDfS3aJYwFk) "Gameplay Trailer")
+[![Trailer](./preview.jpg)](https://www.youtube.com/watch?v=QDfS3aJYwFk)
 
