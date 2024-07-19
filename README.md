@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an independent game programmer. 
+I am an independent game programmer, who specializes in 3D graphics, modern C++, and engine / API design.
 
 <div display="flex">
   <img src="https://img.shields.io/badge/C++-gray?style=for-the-badge&logo=c%2B%2B&logoColor=%2361DAFB" alt="C++"/>
   <img src="https://img.shields.io/badge/3DGraphics-gray.svg?style=for-the-badge&logo=opengl&logoColor=%#5586A4FB" alt="OpenGL"/>
   <img src="https://img.shields.io/badge/PhysX-gray.svg?style=for-the-badge&logo=nvidia&logoColor=%76B900FB" alt="PhysX"/>
 </div>
+
+I have worked on a lot of projects using a myriad of languages and engines, targeting everything from PC to mobile to VR.
+
+A lot of my work isn't public or public yet, and my repositories are littered with various forks and experiments, so I figured this page could focus attention on the highlights.
 
 ## Current Projects
 
@@ -40,10 +44,10 @@ Virtuoso Engine is my personal game and app development framework that I've been
 
 The philosophy of the engine is to be a lightweight framework style engine, sort of like RayLib, but more focusing on C++20, 3D, and physics rather than C99/2D.  I did this because it's the language / paradigm under which I'm most productive as a very experienced C++ programmer with lots of graphics programming and graphics driver experience.
 
-I also am a really strong booster of the ["STB"](https://github.com/nothings/stb) style of library - of making components or functionality that can be forked off without dependencies into a single header permissive license "library."
+I also am a really strong booster of the ["STB"](https://github.com/nothings/stb) style of library - of making components or functionality that can be forked off without dependencies into a single header, permissive license "library."
 
 #### Public Components
-Several components of the engine can be seen publicly on my GitHub.
+Several components of the engine can be seen publicly on my GitHub:
 
 [GLSugar](https://github.com/VirtuosoChris/GLSugar) - Graphics framework for modern / AZDO style OpenGL development with nicer syntax.  This has code for basic texture and shader handling, as well as struct annotation to easily make VAO's and UBOs with correct memory alignments.  Built on GLHPP (discussed below), a library written by a colleague to which I am a contributor.
 
