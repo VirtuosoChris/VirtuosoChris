@@ -87,6 +87,7 @@ You can play the game [here](https://makinggamesbyyear.itch.io/star-trek-1971).
 
 ### Fireworks Show VR
 2017 app released for free on the GearVR App Store via download code.  It was also available for Cardboard VR.  Built on Virtuoso Engine.  Preview gif below:
+
 ![fwgif](https://github.com/user-attachments/assets/8d931ee5-a879-4dd9-9510-eb06d53e7db1)
 
 ### Crayon Rendering Algorithm
@@ -96,6 +97,8 @@ You can play the game [here](https://makinggamesbyyear.itch.io/star-trek-1971).
 
 ### Music
 I played trumpet in jazz, concert, and marching band in high school and middle school.  That's 7 years total, which is just shy of the time at my longest adult job.  This turned into being a self taught guitarist as an adult, and in the past year or two I started getting formal lessons.  It's been an enriching part of my life, but also turned into a skill I am using to make the soundtrack for KBH!
+
+<img src="https://github.com/user-attachments/assets/12c11cf3-dabb-4408-9afc-5cc7e8936729" width="256"/>
 
 ## 3rd Party Libraries
 A lot of the work on the engine is curating which third party libraries to use vs which things to write myself.  The engine puts together and builds on top of lots of third party open source libraries, including but not limited to:
