@@ -77,7 +77,7 @@ Several components of the engine can be seen publicly on my GitHub:
 A sampling of my motable past projects includes:
 
 ### Making Games By Year
-A YouTube show talking about the history of a game for every year since the beginning of gaming, then making that game.  It got as far as 1969 (Lunar Lander) and 1971 (Star Trek) before I had to put the project aside due to the sheer amount of work between development, reserach, and video editing.  I do have ideas on how I want to revive this though :)
+A YouTube show talking about the history of a game for every year since the beginning of gaming, then making that game.  It got as far as 1969 (Lunar Lander) and 1971 (Star Trek) before I had to put the project aside due to the sheer amount of work between development, research, and video editing.  I do have ideas on how I want to revive this though :)
 
 ![Javascript Star Trek Game 2019](https://github.com/user-attachments/assets/9cfc1af6-9675-46b7-bdbc-dddefb20ae20)
 
