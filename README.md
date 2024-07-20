@@ -64,18 +64,17 @@ I also am a really strong booster of the ["STB"](https://github.com/nothings/stb
 #### Public Components
 Several components of the engine can be seen publicly on my GitHub:
 
-[YarnMachine](https://github.com/VirtuosoChris/YarnMachine) - A standalone C++ virtual machine for [YarnSpinner](https://www.yarnspinner.dev/), a narrative scripting language I use in KBH
+[YarnMachine](https://github.com/VirtuosoChris/YarnMachine) - A standalone C++ virtual machine for [YarnSpinner](https://www.yarnspinner.dev/), a narrative scripting language I use in KBH for dialogue and game scripting.
 
-[Quake Style Console](https://github.com/VirtuosoChris/VirtuosoConsole) - Debug console and IMGUI widget
+[Quake Style Console](https://github.com/VirtuosoChris/VirtuosoConsole) - Debug console and IMGUI widget.  The first version of this was written 11 years ago as an experiment but I've been maintaining and using this ever since.
 
 [GLSugar](https://github.com/VirtuosoChris/GLSugar) - Graphics framework for modern / AZDO style OpenGL development with nicer syntax.  This has code for basic texture and shader handling, as well as struct annotation to easily make VAO's and [UBOs](https://github.com/VirtuosoChris/GL_UBO/) with correct memory alignments.  Built on GLHPP (discussed below), a library written by a colleague to which I am a contributor.
 
-[uJNI](https://github.com/VirtuosoChris/uJNI) - Helper functions and classes to wrangle JNI / NDK things.  Not used in KBH, but was developed for the 2016/2017 iteration of the engine to ship a Fireworks Show VR app on the GearVR platform (Android).
+[uJNI](https://github.com/VirtuosoChris/uJNI) - Helper functions and classes to wrangle JNI / NDK things.  Not used in KBH, but was rapidly developed for the 2016/2017 iteration of the engine to ship a Fireworks Show VR app on the GearVR platform (Android).
 
 ## Past Projects
-This section under construction.
 
-Notable past projects include:
+A sampling of my motable past projects includes:
 
 ### Making Games By Year
 A YouTube show talking about the history of a game for every year since the beginning of gaming, then making that game.
@@ -88,7 +87,7 @@ You can play the game [here](https://makinggamesbyyear.itch.io/star-trek-1971).
 2017 app released for free on the GearVR App Store.  Built on Virtuoso Engine.  Preview gif below:
 ![fwgif](https://github.com/user-attachments/assets/8d931ee5-a879-4dd9-9510-eb06d53e7db1)
 
-## Crayon Rendering Algorithm
+### Crayon Rendering Algorithm
 2013, a heuristic approach made for low performance / mobile rendering at the time.  Source code and (unpublished) algorithm paper in repository [here](https://github.com/VirtuosoChris/CrayonRenderer).
 
 ![screenshot](https://github.com/user-attachments/assets/97751aa6-135b-49a4-9fa4-5c3c567d05ba)
