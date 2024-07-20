@@ -21,12 +21,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# Who Am I?
 I am an independent game programmer, who specializes in 3D graphics, modern C++, and engine / API design.
 
 I have worked on a lot of projects using a myriad of languages and engines, targeting everything from PC to mobile to VR.
 
 A lot of my work isn't public (or public yet!), and my repositories are littered with various forks and experiments, so I figured this page could focus attention on the highlights.
+
+### Professional highlights
+
+A couple career highlights before I get into my current projects :
+
+I was an OpenGL workstation driver engineer for almost a decade.  I redesigned the legacy driver's multithreading code, and was part of the team that developed an entirely new OpenGL driver, released in 2022, which had up to 72% performance gains in key applications.  I learned a lot and worked with a great team of people.
+
+[<img src="https://github.com/user-attachments/assets/d4b6cc06-1359-4f34-9957-bc9c12525e6c" width="256"/>](https://www.tomshardware.com/news/amd-rearchitects-opengl-driver-for-a-72-performance-uplift)
+
+Before that I worked in the Computer Graphics lab at UCF implementing virtual texturing and [Blockmaps](https://i.cs.hku.hk/~yzyu/publication/NUT-sigasia2013.pdf) for streaming visualization, work which concluded in 2013.
+
+But I think my best, most exciting work is my current game and engine, which you'll read about below :)
 
 More detailed career history, projects, and my up to date resume can be found on my [LinkedIn](https://www.linkedin.com/in/chris-pugh-70937975/)
 
