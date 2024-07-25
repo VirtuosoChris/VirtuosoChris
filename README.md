@@ -83,7 +83,7 @@ A YouTube show talking about the history of a game for every year since the begi
 
 [YouTube Episode Playlist](https://www.youtube.com/playlist?list=PLqb-u860i_E9UJC_YRI9igpuhXCXv3tqk)
 
-[Star Trek Game Source](https://github.com/MakingGamesByYear/TrekGame) from Episode 1
+[Star Trek Game JavaScript Source](https://github.com/MakingGamesByYear/TrekGame) from Episode 1
 
 You can play the game [here](https://makinggamesbyyear.itch.io/star-trek-1971).
 
