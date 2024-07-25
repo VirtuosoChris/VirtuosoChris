@@ -81,6 +81,8 @@ A YouTube show talking about the history of a game for every year since the begi
 
 ![Javascript Star Trek Game 2019](https://github.com/user-attachments/assets/9cfc1af6-9675-46b7-bdbc-dddefb20ae20)
 
+[YouTube Episode Playlist](https://www.youtube.com/playlist?list=PLqb-u860i_E9UJC_YRI9igpuhXCXv3tqk)
+
 [Star Trek Game Source](https://github.com/MakingGamesByYear/TrekGame) from Episode 1
 
 You can play the game [here](https://makinggamesbyyear.itch.io/star-trek-1971).
