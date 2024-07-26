@@ -54,6 +54,9 @@ A gameplay trailer can be seen here:
 The game and engine code will eventually be publicly released under an MIT License, but not yet.  If you are considering me for employment and want an up to date code sample or playable build feel free to contact me and ask.
 
 ### Virtuoso Engine
+<img src="https://github.com/user-attachments/assets/f954bf75-07e8-4741-9008-fc52df5a76c0" width="320"/>
+
+
 #### Description and Philosophy
 Virtuoso Engine is my personal game and app development framework that I've been working on for about a decade or so in various iterations, and have shipped multiple apps on.  The latest version is being used in the development of "Killing Baby Hitler."
 
