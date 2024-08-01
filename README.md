@@ -49,7 +49,9 @@ More detailed career history, projects, and my up to date resume can be found on
 I am currently making Killing Baby Hitler, a retro FPS "boomer shooter" inspired by classics like Wolfenstein.  The game is built on a custom engine ("Virtuoso Engine", discussed below).
 A gameplay trailer can be seen here: 
 
-[<img src="./preview.jpg" width="512"/>](https://www.youtube.com/watch?v=QDfS3aJYwFk)
+https://github.com/user-attachments/assets/77d3f63f-70c5-4d7e-8026-a8b3d5da427a
+
+Or on [YouTube](https://www.youtube.com/watch?v=QDfS3aJYwFk)
 
 The game and engine code will eventually be publicly released under an MIT License, but not yet.  If you are considering me for employment and want an up to date code sample or playable build feel free to contact me and ask.
 
