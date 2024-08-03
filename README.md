@@ -132,6 +132,23 @@ A lot of the work on the engine is curating which third party libraries to use v
 
 [MiniZ](https://github.com/richgel999/miniz/) - for compression and bundling of map data
 
+## Older Projects
+### Personal Projects
+[1D Pong (2009)](https://github.com/VirtuosoChris/1DPong)
+
+[Asteroids (2007) : My second game](https://github.com/VirtuosoChris/Asteroids)
+
+[BONG (Breakout-Pong, 2006) : My first game](https://github.com/VirtuosoChris/BONG)
+
+
+### Class Projects
+[Paint Demo (2010)](https://github.com/VirtuosoChris/PaintDemo2010)
+
+[Quake The Can (2009)](https://github.com/VirtuosoChris/quakethecan)
+
+[Dr. Karnaugh's Lab (2008)](https://github.com/VirtuosoChris/drkarnaugh)
+
+
 ## Miscellaneous Screenshots Gallery
 Various screenshots of various games / rendering effects / projects I've worked on (in no order).  These go back to when I first started to code in 2006 or so, up to around 2020.
 
