@@ -97,7 +97,7 @@ A YouTube show talking about the history of a game for every year since the begi
 You can play the game [here](https://makinggamesbyyear.itch.io/star-trek-1971).
 
 ### Fireworks Show VR
-2017 app released for free on the GearVR App Store via download code.  It was also available for Cardboard VR.  Built on Virtuoso Engine.  Source repo TBD.  Preview gif below:
+2017 app released for free on the GearVR App Store via download code.  It was also available for Cardboard VR.  Built on Virtuoso Engine.  Source repo [TBD](https://github.com/VirtuosoChris/Fireworks-Show-VR/).  Preview gif below:
 
 ![fwgif](https://github.com/user-attachments/assets/8d931ee5-a879-4dd9-9510-eb06d53e7db1)
 
