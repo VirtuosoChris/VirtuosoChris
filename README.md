@@ -36,7 +36,7 @@ I was an OpenGL workstation driver engineer for almost a decade.  I redesigned t
 
 [<img src="https://github.com/user-attachments/assets/d4b6cc06-1359-4f34-9957-bc9c12525e6c" width="256"/>](https://www.tomshardware.com/news/amd-rearchitects-opengl-driver-for-a-72-performance-uplift)
 
-Before that I worked in the Computer Graphics lab at UCF implementing [virtual texturing](https://silverspaceship.com/src/svt/) and [Blockmaps](https://i.cs.hku.hk/~yzyu/publication/NUT-sigasia2013.pdf) for streaming visualization, work which concluded in 2013.
+Before that I worked in the Computer Graphics lab at UCF implementing [virtual texturing](https://silverspaceship.com/src/svt/) and [Blockmaps](https://diglib.eg.org/server/api/core/bitstreams/b64ac199-b739-4e5d-91f5-202caf811e89/content) for streaming visualization, work which concluded in 2013.
 
 But I think my best, most exciting work is my current game and engine, which you'll read about below :)
 
