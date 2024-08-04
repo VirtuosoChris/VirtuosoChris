@@ -42,6 +42,8 @@ But I think my best, most exciting work is my current game and engine, which you
 
 More detailed career history, projects, and my up to date resume can be found on my [LinkedIn](https://www.linkedin.com/in/chris-pugh-70937975/)
 
+Or here : [Christopher Pugh Resume July 2024.pdf](https://github.com/user-attachments/files/16486569/Christopher.Pugh.Resume.July.2024.pdf)
+
 ## Current Projects
 
 ### Killing Baby Hitler
