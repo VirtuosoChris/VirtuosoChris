@@ -78,7 +78,7 @@ Several components of the engine can be seen publicly on my GitHub:
 [uJNI](https://github.com/VirtuosoChris/uJNI) - Helper functions and classes to wrangle JNI / NDK things.  Not used in KBH, but was rapidly developed for the 2016/2017 iteration of the engine to ship a Fireworks Show VR app on the GearVR platform (Android).
 
 [Spherical Harmonics](https://github.com/VirtuosoChris/SphericalHarmonics)
-Utility code for environment map filtering.
+Utility code for environment map filtering.  Used for glossy HDR environment rendering in unreleased prototypes, and diffuse probe convolution in Fireworks Show VR.
 
 ## Past Projects
 
