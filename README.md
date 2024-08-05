@@ -178,3 +178,9 @@ Various screenshots of various games / rendering effects / projects I've worked 
 ![1235908_10151693724063300_1248181310_n](https://github.com/user-attachments/assets/66b1c42e-696b-4d7d-9269-fbf935ee12d4)
 ![18157861_10154874392848300_6480177987938036393_n](https://github.com/user-attachments/assets/8802d612-7584-4d98-ae6b-f47f410a509c)
 
+## Playing with the UE4 Terrain Editor
+
+![69367349_10157065725668300_7151165675061379072_n](https://github.com/user-attachments/assets/b940c078-870b-415b-b484-4b6328575bf7)
+![69356908_10157065725658300_1295788635316027392_n](https://github.com/user-attachments/assets/4cc71d48-8b1b-4883-817f-d8757f03792f)
+
+
