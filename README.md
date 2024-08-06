@@ -68,6 +68,8 @@ The philosophy of the engine is to be a lightweight framework style engine, sort
 
 I also am a really strong booster of the ["STB"](https://github.com/nothings/stb) style of library - of making components or functionality that can be forked off without dependencies into a single header, permissive license "library."
 
+The engine is not publicly released yet but has a landing page [here](https://github.com/VirtuosoChris/Virtuoso-Engine/).
+
 #### Public Components
 Several components of the engine can be seen publicly on my GitHub:
 
