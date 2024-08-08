@@ -147,46 +147,60 @@ I played trumpet in jazz, concert, and marching band in high school and middle s
 Various screenshots of various games / rendering effects / projects I've worked on (in no order).  These go back to when I first started to code in 2006 or so, up to around 2020.
 
 Difference of Gaussians Post FX on an Icosphere
+
 ![Post Processing FX DoG   Icosphere](https://github.com/user-attachments/assets/b3c71745-216d-455d-ae53-4c906db669dc)
 
 OpenCL Mandelbrot Set Rendering (OpenGL Interop)
+
 ![Mandelbrot OpenCL 2012](https://github.com/user-attachments/assets/ee74a7be-2475-4694-a5ba-23ee8cf39f33)
 
-HDR Stereo Reflection Maps (GearVR 2016)
+HDR Stereo Reflection Maps (Virtuoso, GearVR 2016)
+
 ![HDR Mobile VR 2016](https://github.com/user-attachments/assets/eb760afc-2706-41dc-8555-2f7b8872b3f5)
 
-Water Shader (GearVR 2016)
+Water Shader (Virtuoso, GearVR 2016)
+
 ![GLES Mobile Water Shader 2016](https://github.com/user-attachments/assets/4b38adad-a7de-492b-943d-b478295f9659)
 
 Bloom, HDR, Emissive Mapping (2012)
+
 ![Bloom HDR Emissive 2012](https://github.com/user-attachments/assets/a61549a3-50e8-4731-a993-172cfa38cbd7)
 
-Spherical Harmonics Convolutions (Virtuoso, 2010)
+Spherical Harmonics Convolutions (2010)
+
 ![Spherical Harmonic Lighting Probe Convolutions](https://github.com/user-attachments/assets/5a50ba4c-e26d-4fc6-b661-91d796aae4ed)
 
 Shadowmaps, Bloom, LOD, HDR (Virtuoso, 2017)
+
 ![ShadowMaps Bloom LOD HDR](https://github.com/user-attachments/assets/6f88d5d3-3fcb-4c18-8575-c63203f1dd1e)
 
 Shadowmaps, Bloom, HDR (Virtuoso Engine, 2017)
+
 ![Shadowmaps Bloom HDR](https://github.com/user-attachments/assets/e1755a54-dc48-44b5-b906-08e45a69b41a)
 
-Stateless Header Only Particle System aka S.H.O.P.S. library.  (GPU Particles, No collisions, Virtuoso 2016)
+Stateless Header Only Particle System aka S.H.O.P.S. library.  (GPU Particles, No collisions, GearVR, Virtuoso 2016)
+
 ![18157861_10154874392848300_6480177987938036393_n](https://github.com/user-attachments/assets/8802d612-7584-4d98-ae6b-f47f410a509c)
 
 Ludum Dare Jam Game (Unreleased & Unfinished, Custom pixel art and tile engine)
+
 ![462912_10150724418683300_1027386139_o](https://github.com/user-attachments/assets/e548e416-3e73-4223-bdde-76b629cc21e1)
 
 Panda3D Digital Media Project With Custom CG Shading Pipeline, Graduate Research
+
 ![191696_10150121343723300_1099850_o](https://github.com/user-attachments/assets/b59efd1f-c5bc-4fc4-bc3c-b19be09d090d)
 ![191644_10150121343578300_4021780_o](https://github.com/user-attachments/assets/865b6b71-8cd6-4e16-b8c4-e024bc08c58b)
 
 Measured BRDF Rendering With Many Lights (2010-ish, Undergraduate research)
+
 ![34374_402948048299_5819395_n](https://github.com/user-attachments/assets/8ef66e0a-e341-4555-a054-1655d43fc3f3)
 
 (High School, 2006ish) Terrain rendering and generation prototype (OpenGL 1.5)
+
 ![64147_10151693770768300_1219412655_n](https://github.com/user-attachments/assets/822b611b-e18f-4ce8-a503-1f9a955ae34e)
 
 (High School, 2006ish) "BattleClone" (aka Battlezone Clone) unfinished prototype, OpenGL 1.5
+
 ![1235908_10151693724063300_1248181310_n](https://github.com/user-attachments/assets/66b1c42e-696b-4d7d-9269-fbf935ee12d4)
 
 <!---
