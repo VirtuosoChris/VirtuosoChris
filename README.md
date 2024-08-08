@@ -117,7 +117,7 @@ I played trumpet in jazz, concert, and marching band in high school and middle s
 
 ## Older Projects
 ### Personal Projects
-[1D Pong (2009)](https://github.com/VirtuosoChris/1DPong)
+[1D Pong (2009) : Experimental Gameplay Jam Game](https://github.com/VirtuosoChris/1DPong)
 
 ![38104_408871258299_5415115_n](https://github.com/user-attachments/assets/6bea0192-846c-4aac-8c00-623dce4b6ca0)
 
