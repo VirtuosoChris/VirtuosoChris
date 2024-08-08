@@ -68,10 +68,10 @@ The philosophy of the engine is to be a lightweight framework style engine, sort
 
 I also am a really strong booster of the ["STB"](https://github.com/nothings/stb) style of library - of making components or functionality that can be forked off without dependencies into a single header, permissive license "library."
 
-The engine is not publicly released yet but has a landing page [here](https://github.com/VirtuosoChris/Virtuoso-Engine/).
+The engine is not publicly released yet but has a landing page [here](https://github.com/VirtuosoChris/Virtuoso-Engine/) where you can see some of the public libraries, a list of third party libraries integrated, and some screenshots / videos of projects I've made in the engine.
 
 #### Public Components
-Several components of the engine can be seen publicly on my GitHub:
+Several examples of Virtuoso Engine components can be seen publicly on my GitHub:
 
 [YarnMachine](https://github.com/VirtuosoChris/YarnMachine) - A standalone C++ virtual machine for [YarnSpinner](https://www.yarnspinner.dev/), a narrative scripting language I use in KBH for dialogue and game scripting.
 
@@ -114,31 +114,6 @@ You can play the game [here](https://makinggamesbyyear.itch.io/star-trek-1971).
 I played trumpet in jazz, concert, and marching band in high school and middle school.  That's 7 years total, which is just shy of the time at my longest adult job.  This turned into being a self taught guitarist as an adult, and in the past year or two I started getting formal lessons.  It's been an enriching part of my life, but also turned into a skill I am using to make the soundtrack for KBH!
 
 <img src="https://github.com/user-attachments/assets/12c11cf3-dabb-4408-9afc-5cc7e8936729" width="256"/>
-
-## 3rd Party Libraries
-A lot of the work on the engine is curating which third party libraries to use vs which things to write myself.  The engine puts together and builds on top of lots of third party open source libraries, including but not limited to:
-
-[glhpp](https://github.com/Steve132/glhpp/) - Object oriented, DSA OpenGL header by a colleague, to which I am a contributor.
-
-[PhysX](https://github.com/NVIDIA-Omniverse/PhysX/) - General purpose physics, collision, math, and simulation library
-
-[Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - For matrix and linear algebra
-
-[Dear ImGUI](https://github.com/ocornut/imgui) - For user interfaces and tools prototyping.  Also several other 3rd party repo's for adding gizmos, markdown, and file dialogs to IMGUI.
-
-[MiniAudio](https://miniaud.io/) - For 3D sound playback and music streaming
-
-[Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) - For dialogue and narrative scripting.  I use their VSCode plugin and their compiler, but built my own C++ runtime discussed above.
-
-[Debug Draw](https://github.com/glampert/debug-draw) - For wireframe primitive visualization
-
-[GLFW](https://github.com/glfw/glfw) and [GLFWPP](https://github.com/Steve132/glfwpp) - for cross platform windowing system and input
-
-[STB](https://github.com/nothings/stb) - Image loading and other miscellanea
-
-[nlohmann's JSON](https://github.com/nlohmann/json) - For data serialization
-
-[MiniZ](https://github.com/richgel999/miniz/) - for compression and bundling of map data
 
 ## Older Projects
 ### Personal Projects
