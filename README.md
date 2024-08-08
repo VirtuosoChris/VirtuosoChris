@@ -119,18 +119,29 @@ I played trumpet in jazz, concert, and marching band in high school and middle s
 ### Personal Projects
 [1D Pong (2009)](https://github.com/VirtuosoChris/1DPong)
 
+![38104_408871258299_5415115_n](https://github.com/user-attachments/assets/6bea0192-846c-4aac-8c00-623dce4b6ca0)
+
 [Asteroids (2007) : My second game](https://github.com/VirtuosoChris/Asteroids)
 
+![562340_10151693775423300_1418642382_n](https://github.com/user-attachments/assets/24ff2939-7294-4982-9a8b-a9234e7e66ef)
+
 [BONG (Breakout-Pong, 2006) : My first game](https://github.com/VirtuosoChris/BONG)
+
+![1235364_10151693798478300_667182919_n](https://github.com/user-attachments/assets/94cffcd7-ad5c-4720-af3a-a973d60cbe6c)
 
 
 ### Class Projects
 [Paint Demo (2010)](https://github.com/VirtuosoChris/PaintDemo2010)
 
+![27035_383537978299_5452579_n](https://github.com/user-attachments/assets/139d1f14-c9bd-4628-b844-bc4a193badaf)
+
 [Quake The Can (2009)](https://github.com/VirtuosoChris/quakethecan)
+
+![image](https://github.com/user-attachments/assets/63888478-bcf3-40b5-98b8-7570a7a2eb21)
 
 [Dr. Karnaugh's Lab (2008)](https://github.com/VirtuosoChris/drkarnaugh)
 
+![image](https://github.com/user-attachments/assets/e92913df-4b2a-47fd-8ef6-3edc714b29c5)
 
 ## Miscellaneous Screenshots Gallery
 Various screenshots of various games / rendering effects / projects I've worked on (in no order).  These go back to when I first started to code in 2006 or so, up to around 2020.
@@ -143,21 +154,22 @@ Various screenshots of various games / rendering effects / projects I've worked 
 ![Spherical Harmonic Lighting Probe Convolutions](https://github.com/user-attachments/assets/5a50ba4c-e26d-4fc6-b661-91d796aae4ed)
 ![ShadowMaps Bloom LOD HDR](https://github.com/user-attachments/assets/6f88d5d3-3fcb-4c18-8575-c63203f1dd1e)
 ![Shadowmaps Bloom HDR](https://github.com/user-attachments/assets/e1755a54-dc48-44b5-b906-08e45a69b41a)
-![38104_408871258299_5415115_n](https://github.com/user-attachments/assets/6bea0192-846c-4aac-8c00-623dce4b6ca0)
-![1235364_10151693798478300_667182919_n](https://github.com/user-attachments/assets/94cffcd7-ad5c-4720-af3a-a973d60cbe6c)
-![562340_10151693775423300_1418642382_n](https://github.com/user-attachments/assets/24ff2939-7294-4982-9a8b-a9234e7e66ef)
+
+
 ![462912_10150724418683300_1027386139_o](https://github.com/user-attachments/assets/e548e416-3e73-4223-bdde-76b629cc21e1)
 ![191696_10150121343723300_1099850_o](https://github.com/user-attachments/assets/b59efd1f-c5bc-4fc4-bc3c-b19be09d090d)
 ![191644_10150121343578300_4021780_o](https://github.com/user-attachments/assets/865b6b71-8cd6-4e16-b8c4-e024bc08c58b)
 ![34374_402948048299_5819395_n](https://github.com/user-attachments/assets/8ef66e0a-e341-4555-a054-1655d43fc3f3)
-![27035_383537978299_5452579_n](https://github.com/user-attachments/assets/139d1f14-c9bd-4628-b844-bc4a193badaf)
+
 ![64147_10151693770768300_1219412655_n](https://github.com/user-attachments/assets/822b611b-e18f-4ce8-a503-1f9a955ae34e)
 ![1235908_10151693724063300_1248181310_n](https://github.com/user-attachments/assets/66b1c42e-696b-4d7d-9269-fbf935ee12d4)
 ![18157861_10154874392848300_6480177987938036393_n](https://github.com/user-attachments/assets/8802d612-7584-4d98-ae6b-f47f410a509c)
 
+<!---
 ## Playing with the UE4 Terrain Editor
 
 ![69367349_10157065725668300_7151165675061379072_n](https://github.com/user-attachments/assets/b940c078-870b-415b-b484-4b6328575bf7)
 ![69356908_10157065725658300_1295788635316027392_n](https://github.com/user-attachments/assets/4cc71d48-8b1b-4883-817f-d8757f03792f)
+-->
 
 
