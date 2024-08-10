@@ -83,7 +83,7 @@ Several examples of Virtuoso Engine components can be seen publicly on my GitHub
 
 [Spherical Harmonics](https://github.com/VirtuosoChris/SphericalHarmonics) - Utility code for environment map filtering.  Used for glossy HDR environment rendering in unreleased prototypes, and diffuse probe convolution in Fireworks Show VR.
 
-[Noise](https://github.com/VirtuosoChris/Noise) - Perlin Noise Generation : Used in unreleased prototypes.
+[Noise](https://github.com/VirtuosoChris/Noise) - Perlin Noise Generation : Used in unreleased prototypes.  Just rewritten with C++20 features, so it's a good short recent code sample.
 
 ## Past Projects
 
