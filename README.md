@@ -213,23 +213,27 @@ Measured BRDF Rendering With Many Lights (2010-ish, Undergraduate research)
 
 Other techniques and whitepapers I've implemented but may not be pictured yet include but aren't limited to:
 
-Water shaders with Gerstner waves
+[Water shaders with Gerstner waves](https://developer.nvidia.com/gpugems/gpugems/part-i-natural-effects/chapter-1-effective-water-simulation-physical-models)
 
-Mesh Optimization : Triangle Order Optimization and compression
+Mesh Optimization : Triangle Order Optimization and compression eg: 
+[1](https://github.com/GPUOpen-Tools/amd-tootle/raw/master/docs/tootle2-siggraph2007-paper.pdf)
+[2](https://github.com/GPUOpen-Tools/amd-tootle/raw/master/docs/tootle-i3d2006-paper.pdf)
 
-Far Voxels
+[Far Voxels](https://www.researchgate.net/publication/220183997_Far_voxels_A_multiresolution_framework_for_interactive_rendering_of_huge_complex_3D_models_on_commodity_graphics_platforms)
 
 Analytical Line Lights
 
-Coherent Hierarchical Culling++
+[Coherent Hierarchical Culling++](https://dcgi.fel.cvut.cz/wp-content/wpallimport-dist/publications/pdf/publications-2008-mattausch-cgf-chc-paper.pdf)
 
 Level of Detail
 
 Spherical Harmonics Transforms & Environment Maps
 
-Ray-casted blockmaps
+[Sparse Virtual Texturing](https://silverspaceship.com/src/svt/) and 
+ 
+[Ray-casted Blockmaps](https://diglib.eg.org/server/api/core/bitstreams/b64ac199-b739-4e5d-91f5-202caf811e89/content) 
 
-Maximum Mipmap Displacement Mapping
+[Maximum Mipmap Displacement Mapping](https://www.researchgate.net/publication/47862133_Maximum_Mipmaps_for_Fast_Accurate_and_Scalable_Dynamic_Height_Field_Rendering)
 
 Particle Systems
 
@@ -237,7 +241,7 @@ Deferred Rendering
 
 HDR and Post-Processing
 
-Sparse Virtual Texturing
+[Kawase Bloom](https://community.arm.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-20-66/siggraph2015_2D00_mmg_2D00_marius_2D00_notes.pdf)
 
 Perlin Noise
 
@@ -245,4 +249,4 @@ Real-time raytracing (Compute Shader)
 
 PCF Shadow Mapping
 
-Stencil Shadows (Geometry Shader Extrusion)
+[Stencil Shadows (Geometry Shader Extrusion)](https://developer.nvidia.com/gpugems/gpugems3/part-ii-light-and-shadows/chapter-11-efficient-and-robust-shadow-volumes-using)
