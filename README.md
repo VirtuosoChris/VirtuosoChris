@@ -208,22 +208,41 @@ Measured BRDF Rendering With Many Lights (2010-ish, Undergraduate research)
 ![69367349_10157065725668300_7151165675061379072_n](https://github.com/user-attachments/assets/b940c078-870b-415b-b484-4b6328575bf7)
 ![69356908_10157065725658300_1295788635316027392_n](https://github.com/user-attachments/assets/4cc71d48-8b1b-4883-817f-d8757f03792f)
 
-Other 3D graphics techniques and whitepapers I've implemented include but aren't limited to:
+
+## Other Graphics Algorithms
+
+Other techniques and whitepapers I've implemented but may not be pictured yet include but aren't limited to:
 
 Water shaders with Gerstner waves
+
 Mesh Optimization : Triangle Order Optimization and compression
+
 Far Voxels
+
 Analytical Line Lights
+
 Coherent Hierarchical Culling++
+
 Level of Detail
+
 Spherical Harmonics Transforms & Environment Maps
+
 Ray-casted blockmaps
+
 Maximum Mipmap Displacement Mapping
+
 Particle Systems
+
 Deferred Rendering
+
 HDR and Post-Processing
+
 Sparse Virtual Texturing
+
 Perlin Noise
+
 Real-time raytracing (Compute Shader)
+
 PCF Shadow Mapping
+
 Stencil Shadows (Geometry Shader Extrusion)
