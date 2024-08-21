@@ -87,6 +87,8 @@ Several examples of Virtuoso Engine components can be seen publicly on my GitHub
 
 [Noise](https://github.com/VirtuosoChris/Noise) - Perlin Noise Generation : Used in unreleased prototypes.  Just rewritten with C++20 features, so it's a good short recent code sample.
 
+[3DMath](https://github.com/VirtuosoChris/3DMath) - Frustum, transforms, etc.
+
 ## Past Projects
 
 A sampling of my motable past projects includes:
