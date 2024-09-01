@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Who Am I?
+I am Chris Pugh, creator of Killing Baby Hitler, Virtuoso Engine, and Making Games By Year.
+
 I am an independent game programmer, who specializes in 3D graphics, modern C++, and engine / API design.
 
 I have worked on a lot of projects using a myriad of languages and engines, targeting everything from PC to mobile to VR.
