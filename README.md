@@ -121,6 +121,8 @@ I played trumpet in jazz, concert, and marching band in high school and middle s
 
 <img src="https://github.com/user-attachments/assets/12c11cf3-dabb-4408-9afc-5cc7e8936729" width="256"/>
 
+I'm uploading previews of tracks I'm writing for KBH on an ongoing basis [here](https://soundcloud.com/the-coffee-industrial-complex):
+
 ## Older Projects
 ### Personal Projects
 [1D Pong (2009) : Experimental Gameplay Jam Game](https://github.com/VirtuosoChris/1DPong)
